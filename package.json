@@ -1,0 +1,36 @@
+{
+  "name": "karabiner-elements-profile-switcher",
+  "version": "1.0.0",
+  "description": "Profile switcher for karabiner elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "bin": {
+    "kb-el-switcher": "bin/kb-el-switcher"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlieduong94/karabiner-elements-profile-switcher.git"
+  },
+  "keywords": [
+    "karabiner",
+    "karabiner-elements",
+    "profile",
+    "switcher"
+  ],
+  "author": "Charlie Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlieduong94/karabiner-elements-profile-switcher/issues"
+  },
+  "homepage": "https://github.com/charlieduong94/karabiner-elements-profile-switcher#readme",
+  "dependencies": {
+    "argly": "^1.0.0",
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  }
+}

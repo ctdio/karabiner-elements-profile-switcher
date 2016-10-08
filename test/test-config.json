@@ -1,0 +1,28 @@
+{
+    "profiles": [
+        {
+            "name": "Default profile",
+            "selected": false,
+            "simple_modifications": {
+                "caps_lock": "left_control"
+            }
+        },
+        {
+            "name": "Mechanical Keyboard",
+            "selected": true,
+            "simple_modifications": {
+                "caps_lock": "left_control",
+                "left_option": "left_command",
+                "left_command": "left_option"
+            }
+        },
+        {
+            "name": "profile3",
+            "selected": false,
+            "simple_modifications": {
+                "left_option": "left_command",
+                "left_command": "left_option"
+            }
+        }
+    ]
+}

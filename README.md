@@ -2,6 +2,12 @@
 
 A simple profile switcher for karabiner elements.
 
+### Installation
+
+```
+npm i -g karabiner-elements-profile-switcher
+```
+
 ### Usage
 
 Simply supply the name of the profile.

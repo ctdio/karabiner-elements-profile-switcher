@@ -23,7 +23,7 @@ let karabinerConfigPath;
 if (args.file) {
     karabinerConfigPath = args.file;
 } else {
-    karabinerConfigPath = `${HOME_DIR}/.karabiner.d/configuration/karabiner.json`;
+    karabinerConfigPath = `${HOME_DIR}/.config/karabiner/karabiner.json`;
 }
 
 
